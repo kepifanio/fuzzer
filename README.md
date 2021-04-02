@@ -2,21 +2,25 @@ Written by: Katherine Epifanio
 
 
 Purpose:
+        
         This program determines whether a given URL is vulnerable to
         reflected Cross-Site Scripting (XSS) by initiating an HTTP
         request and analyzing the response.
 
 Files Included:
+        
         fuzzer.py - Contains all source code.
         Fuzzing   - Directory of input text files from Daniel Miessler's
                     SecLists GitHub repository.
                     (https://github.com/danielmiessler/SecLists/tree/master/Fuzzing)
 
 Compiling:
+        
         python fuzzer.py
 
 
 Usage:
+        
         The command line does not accept additional arguments. Once
         the program is executed, it prompts the user to input...
 
