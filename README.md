@@ -10,9 +10,9 @@ Purpose:
 Files Included:
        
        fuzzer.py - Contains all source code.
-        Fuzzing   - Directory of input text files from Daniel Miessler's
-                    SecLists GitHub repository.
-                    (https://github.com/danielmiessler/SecLists/tree/master/Fuzzing)
+       Fuzzing   - Directory of input text files from Daniel Miessler's
+                   SecLists GitHub repository.
+                   (https://github.com/danielmiessler/SecLists/tree/master/Fuzzing)
 
 Compiling:
        
